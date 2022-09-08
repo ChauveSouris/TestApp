@@ -29,7 +29,8 @@ class HomePage extends StatelessWidget {
       body: Center(
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
-          children: const [
+          children:  [
+            Image.asset('assets/image/copybook.png'),
             Text(
               'Hello',
               style: TextStyle(fontSize: 25, color: Colors.black),
