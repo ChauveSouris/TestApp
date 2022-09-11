@@ -46,7 +46,7 @@
 		</data>
 		<key>Frameworks/App.framework/App</key>
 		<data>
-		3t54DTnp2i+1+mX/mHP6xfZ1Gvw=
+		QWq4/cVWP7vGqqJgvP2LgkiRiSo=
 		</data>
 		<key>Frameworks/App.framework/Info.plist</key>
 		<data>
@@ -54,11 +54,11 @@
 		</data>
 		<key>Frameworks/App.framework/_CodeSignature/CodeResources</key>
 		<data>
-		tUNLCLarYh5ViMuwacvLyUbdh0g=
+		/0XgZHmQUlIZjr/AdbIIXS+90Fk=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<data>
-		ROM/pRdzkQ04BGsJDGRzJIgaxrw=
+		/zO3WuN27/axkWWQ/Rto3bk1+Cs=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/FontManifest.json</key>
 		<data>
@@ -68,9 +68,9 @@
 		<data>
 		S1814L5tDWHQ7PijPL7WMZlbxNM=
 		</data>
-		<key>Frameworks/App.framework/flutter_assets/assets/image/copybook.png</key>
+		<key>Frameworks/App.framework/flutter_assets/assets/image/bear.png</key>
 		<data>
-		6UJgok9OjpLDrAonzcn+Gu7xVbM=
+		1ZLAHhs6xsSNBBVu3BR8exsKOV0=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/fonts/MaterialIcons-Regular.otf</key>
 		<data>
@@ -82,7 +82,7 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/kernel_blob.bin</key>
 		<data>
-		dcMUAbJiFKdjpImkLWKw/TJok44=
+		bFIlxM0MVL+1iJxVvXWjZ9S9qDo=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -265,7 +265,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Cj8qw41+Iq9FZs2oZlxzbmfN+h1Mt1CF5r1Kx2/OI6c=
+			FocGKgDWtEIwbM9wHOesXRTb6yoHVxihAH0BTNjo2Yk=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/Info.plist</key>
@@ -279,14 +279,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6hlmsleSMzGvj2je6I3c6bEgq1RFPV6FJzt56hE+qVY=
+			sJJRDx87oMTIOui8k7zbaidnOJb7XSrSeLkDV0nG8b0=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			lUeIYyCGhu0cbFFyir4JpoLIeZGgcI8DAo5Zkc4Icj8=
+			r/Lq99lAdY51P4TnDIuTnK5fCRWoD8Z2eV1nEAlq1L4=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/FontManifest.json</key>
@@ -303,11 +303,11 @@
 			oAVO+UTtLSfpHvj9+/+N9UeaJGTAheASerdA/Lu6/nc=
 			</data>
 		</dict>
-		<key>Frameworks/App.framework/flutter_assets/assets/image/copybook.png</key>
+		<key>Frameworks/App.framework/flutter_assets/assets/image/bear.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			bu7hKn5ygUamjHFJr6UyZs/Do4jCAyFipMKxYpRxK+s=
+			syQZ3WYJjQTfYa62Cj/r0ochu3zJa5vK7I4XtVu3Vws=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/fonts/MaterialIcons-Regular.otf</key>
@@ -328,7 +328,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			rLdEsQBs2ZO71xw1YzC5ASLPLofAb0pQSoMVBLYGwbQ=
+			eJWxJ8So1Q+MR7NPx/u/a9kixm/w3zbBCFTbplRsixA=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>

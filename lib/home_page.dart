@@ -1,3 +1,4 @@
+import 'package:app/list_page.dart';
 import 'package:app/profile_page.dart';
 import 'package:flutter/material.dart';
 
@@ -7,6 +8,7 @@ class HomePage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      backgroundColor: Colors.grey,
       appBar: AppBar(
         title: const Text(
           'el.notebook',
@@ -18,35 +20,38 @@ class HomePage extends StatelessWidget {
               Navigator.push(
                 context,
                 MaterialPageRoute(
-                  builder: (context) => ProfilePage(),
+                  builder: (context) => const ProfilePage(),
                 ),
               );
             },
-            icon: Icon(Icons.settings),
+            icon: const Icon(
+              Icons.settings,
+              color: Colors.white,
+            ),
           ),
         ],
       ),
       body: Center(
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
-          children:  [
-            Image.asset('assets/image/copybook.png'),
-            Text(
-              'Hello',
-              style: TextStyle(fontSize: 25, color: Colors.black),
-            ),
-            Padding(
-              padding: EdgeInsets.symmetric(horizontal: 30),
-              child: TextField(),
+          children: [
+            GestureDetector(
+                onTap: () {
+                  Navigator.push(
+                      context,
+                      MaterialPageRoute(
+                          builder: (context) => const ListPage()));
+                },
+                child: Image.asset(
+                  'assets/image/bear.png',
+                  width: 150,
+                  height: 200,
+                )),
+            const Text(
+              'Your notebook',
+              style: TextStyle(fontSize: 25, color: Colors.black, height: 5),
             ),
           ],
-        ),
-      ),
-      floatingActionButton: FloatingActionButton(
-        onPressed: () {},
-        child: Icon(
-          Icons.add,
-          color: Colors.white,
         ),
       ),
     );
